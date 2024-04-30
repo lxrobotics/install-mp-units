@@ -7,7 +7,7 @@ This repository contains a GitHub Action to install [mp-units](https://github.co
 #### How-to-use
 ```bash
 steps:   
-  - name: Install Orocos KDL
-    uses: lxrobotics/install-orocos-mp-units@main
+  - name: Install mp-units
+    uses: lxrobotics/install-mp-units@main
 ```
 
